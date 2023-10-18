@@ -1,0 +1,3 @@
+[Application]
+server.app.propertiesEnabled=True
+server.ole.enabled=True
